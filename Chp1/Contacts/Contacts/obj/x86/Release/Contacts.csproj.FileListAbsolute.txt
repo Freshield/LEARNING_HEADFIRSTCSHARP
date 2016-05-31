@@ -1,0 +1,13 @@
+D:\MEGA\LEARN_BYSELF\C#\LEARNING_HEADFIRSTCSHARP\Chp1\Contacts\Contacts\bin\Release\ContactDB.sdf
+D:\MEGA\LEARN_BYSELF\C#\LEARNING_HEADFIRSTCSHARP\Chp1\Contacts\Contacts\bin\Release\Contacts.exe.config
+D:\MEGA\LEARN_BYSELF\C#\LEARNING_HEADFIRSTCSHARP\Chp1\Contacts\Contacts\bin\Release\Contacts.exe.manifest
+D:\MEGA\LEARN_BYSELF\C#\LEARNING_HEADFIRSTCSHARP\Chp1\Contacts\Contacts\bin\Release\Contacts.application
+D:\MEGA\LEARN_BYSELF\C#\LEARNING_HEADFIRSTCSHARP\Chp1\Contacts\Contacts\bin\Release\Contacts.exe
+D:\MEGA\LEARN_BYSELF\C#\LEARNING_HEADFIRSTCSHARP\Chp1\Contacts\Contacts\bin\Release\Contacts.pdb
+D:\MEGA\LEARN_BYSELF\C#\LEARNING_HEADFIRSTCSHARP\Chp1\Contacts\Contacts\obj\x86\Release\Contacts.Form1.resources
+D:\MEGA\LEARN_BYSELF\C#\LEARNING_HEADFIRSTCSHARP\Chp1\Contacts\Contacts\obj\x86\Release\Contacts.Properties.Resources.resources
+D:\MEGA\LEARN_BYSELF\C#\LEARNING_HEADFIRSTCSHARP\Chp1\Contacts\Contacts\obj\x86\Release\Contacts.csproj.GenerateResource.Cache
+D:\MEGA\LEARN_BYSELF\C#\LEARNING_HEADFIRSTCSHARP\Chp1\Contacts\Contacts\obj\x86\Release\Contacts.exe.manifest
+D:\MEGA\LEARN_BYSELF\C#\LEARNING_HEADFIRSTCSHARP\Chp1\Contacts\Contacts\obj\x86\Release\Contacts.application
+D:\MEGA\LEARN_BYSELF\C#\LEARNING_HEADFIRSTCSHARP\Chp1\Contacts\Contacts\obj\x86\Release\Contacts.exe
+D:\MEGA\LEARN_BYSELF\C#\LEARNING_HEADFIRSTCSHARP\Chp1\Contacts\Contacts\obj\x86\Release\Contacts.pdb
