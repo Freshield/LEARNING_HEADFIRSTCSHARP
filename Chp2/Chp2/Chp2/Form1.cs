@@ -52,19 +52,36 @@ namespace Chp2
 
         private void button4_Click(object sender, EventArgs e)
         {
-            int count = 0;
+            string Result = "";
 
-            while (count < 10)
+            int x = 3;
+
+            while (x > 0)
             {
-                count++;
+                if (x > 2)
+                {
+                    Result += "a";
+                }
+
+                if (x == 2)
+                {
+                    Result += "b c";
+                }
+
+                x = x - 1;
+
+                Result += "-";
+                
+                if (x == 1)
+                {
+                    Result += "d";
+                    x = x - 1;
+                }
+
             }
 
-            for (int i = 0; i < 5; i++)
-            {
-                count--;
-            }
+            MessageBox.Show(Result);
 
-            MessageBox.Show("The answer is " + count);
         }
     }
 }
