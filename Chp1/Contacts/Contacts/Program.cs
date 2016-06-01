@@ -11,7 +11,7 @@ namespace Contacts
         /// 应用程序的主入口点。
         /// </summary>
         [STAThread]
-        static void Main()
+        static void NotMain()
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);

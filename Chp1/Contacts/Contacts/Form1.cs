@@ -19,6 +19,7 @@ namespace Contacts
         private void pictureBox1_Click(object sender, EventArgs e)
         {
             MessageBox.Show("Contact List 1.0.\nWriten by: FRESHIELD", "About");
+            
         }
 
         private void peopleBindingNavigatorSaveItem_Click(object sender, EventArgs e)
