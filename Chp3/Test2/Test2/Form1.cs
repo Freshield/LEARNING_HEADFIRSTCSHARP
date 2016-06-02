@@ -26,9 +26,7 @@ namespace Test2
         {
             InitializeComponent();
             //init
-            bob = new Guy();
-            bob.Name = "Bob";
-            bob.Cash = 100;
+            bob = new Guy() { Cash = 100, Name = "Bob" };
 
             joe = new Guy() { Cash = 50, Name = "Joe" };
 
@@ -51,6 +49,20 @@ namespace Test2
         private void button2_Click(object sender, EventArgs e)
         {
             bank += bob.GiveCash(5);
+            UpdateForm();
+        }
+
+        private void joeGiveToBob_Click(object sender, EventArgs e)
+        {
+            joe.GiveCash(10);
+            bob.ReceiveCash(10);
+            UpdateForm();
+        }
+
+        private void bobGivesToJoe_Click(object sender, EventArgs e)
+        {
+            bob.GiveCash(5);
+            joe.ReceiveCash(5);
             UpdateForm();
         }
 
