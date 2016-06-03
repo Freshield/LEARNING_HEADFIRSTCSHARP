@@ -21,7 +21,19 @@ namespace Test1
             decimal myDecimalValue = 10;
             int myIntValue = (int)myDecimalValue;
 
-            MessageBox.Show("The myIntValue is"+myIntValue);
+            int myInt = 10;
+            byte myByte = (byte)myInt;
+            double myDouble = (double)myByte;
+            string myString = "false";
+            myString = myInt.ToString();
+            short myShort = (short)myInt;
+            char myChar = 'x';
+            long myLong = (long)myInt;
+            decimal myDecimal = (decimal)myLong;
+            myString = myString + myInt + myByte + myDouble + myChar;
+
+
+            MessageBox.Show("The myIntValue is"+myString);
         }
     }
 }
