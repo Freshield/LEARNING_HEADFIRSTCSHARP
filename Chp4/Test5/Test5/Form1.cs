@@ -7,12 +7,12 @@ using System.Linq;
 using System.Text;
 using System.Windows.Forms;
 
-namespace Hit_the_keys
+namespace Test5
 {
     public partial class Form1 : Form
     {
-        Random random = new Random();
         Stats stats = new Stats();
+        Random random = new Random();
 
         public Form1()
         {
@@ -45,7 +45,7 @@ namespace Hit_the_keys
                     timer1.Interval -= 7;
                 if (timer1.Interval > 100)
                     timer1.Interval -= 2;
-                difficultyProgressBar.Value = 800 - timer1.Interval;
+                difficultyProgresBar.Value = 800 - timer1.Interval;
 
                 // The user pressed a correct key, so update the Stats object
                 // by calling its Update() method with the argument true

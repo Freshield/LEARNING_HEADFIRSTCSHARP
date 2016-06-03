@@ -1,0 +1,8 @@
+D:\MEGA\LEARN_BYSELF\C#\LEARNING_HEADFIRSTCSHARP\sourcecode\2nd_edition\Chapter 4\p160 - Hit the keys\p160 - Hit the keys\bin\Debug\p160 - Hit the keys.exe
+D:\MEGA\LEARN_BYSELF\C#\LEARNING_HEADFIRSTCSHARP\sourcecode\2nd_edition\Chapter 4\p160 - Hit the keys\p160 - Hit the keys\bin\Debug\p160 - Hit the keys.pdb
+D:\MEGA\LEARN_BYSELF\C#\LEARNING_HEADFIRSTCSHARP\sourcecode\2nd_edition\Chapter 4\p160 - Hit the keys\p160 - Hit the keys\obj\x86\Debug\Hit_the_keys.Form1.resources
+D:\MEGA\LEARN_BYSELF\C#\LEARNING_HEADFIRSTCSHARP\sourcecode\2nd_edition\Chapter 4\p160 - Hit the keys\p160 - Hit the keys\obj\x86\Debug\Hit_the_keys.Properties.Resources.resources
+D:\MEGA\LEARN_BYSELF\C#\LEARNING_HEADFIRSTCSHARP\sourcecode\2nd_edition\Chapter 4\p160 - Hit the keys\p160 - Hit the keys\obj\x86\Debug\p160 - Hit the keys.csproj.GenerateResource.Cache
+D:\MEGA\LEARN_BYSELF\C#\LEARNING_HEADFIRSTCSHARP\sourcecode\2nd_edition\Chapter 4\p160 - Hit the keys\p160 - Hit the keys\obj\x86\Debug\p160 - Hit the keys.exe
+D:\MEGA\LEARN_BYSELF\C#\LEARNING_HEADFIRSTCSHARP\sourcecode\2nd_edition\Chapter 4\p160 - Hit the keys\p160 - Hit the keys\obj\x86\Debug\p160 - Hit the keys.pdb
+D:\MEGA\LEARN_BYSELF\C#\LEARNING_HEADFIRSTCSHARP\sourcecode\2nd_edition\Chapter 4\p160 - Hit the keys\p160 - Hit the keys\obj\x86\Debug\p160 - Hit the keys.csprojResolveAssemblyReference.cache
