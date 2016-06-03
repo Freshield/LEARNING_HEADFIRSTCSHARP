@@ -1,0 +1,7 @@
+D:\MEGA\LEARN_BYSELF\C#\LEARNING_HEADFIRSTCSHARP\Chp4\keyGame\keyGame\bin\Debug\keyGame.exe
+D:\MEGA\LEARN_BYSELF\C#\LEARNING_HEADFIRSTCSHARP\Chp4\keyGame\keyGame\bin\Debug\keyGame.pdb
+D:\MEGA\LEARN_BYSELF\C#\LEARNING_HEADFIRSTCSHARP\Chp4\keyGame\keyGame\obj\x86\Debug\keyGame.Form1.resources
+D:\MEGA\LEARN_BYSELF\C#\LEARNING_HEADFIRSTCSHARP\Chp4\keyGame\keyGame\obj\x86\Debug\keyGame.Properties.Resources.resources
+D:\MEGA\LEARN_BYSELF\C#\LEARNING_HEADFIRSTCSHARP\Chp4\keyGame\keyGame\obj\x86\Debug\keyGame.csproj.GenerateResource.Cache
+D:\MEGA\LEARN_BYSELF\C#\LEARNING_HEADFIRSTCSHARP\Chp4\keyGame\keyGame\obj\x86\Debug\keyGame.exe
+D:\MEGA\LEARN_BYSELF\C#\LEARNING_HEADFIRSTCSHARP\Chp4\keyGame\keyGame\obj\x86\Debug\keyGame.pdb
