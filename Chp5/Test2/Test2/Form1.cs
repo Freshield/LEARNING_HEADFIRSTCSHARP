@@ -15,7 +15,7 @@ namespace Test2
         public Form1()
         {
             InitializeComponent();
-            farmer = new Farmer() { NumberOfCows = 15 };
+            farmer = new Farmer() { NumberOfCows = 15, f };
         }
 
         private void numericUpDown1_ValueChanged(object sender, EventArgs e)

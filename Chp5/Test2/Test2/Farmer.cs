@@ -8,9 +8,10 @@ namespace Test2
     class Farmer
     {
         public int BagsOfFeed { get;private set; }
-        public const int FeedMultiplier = 30;
+        public int FeedMultiplier { get { return feedMultiplier; } }
 
         private int numberOfCows;
+        private int feedMultiplier;
         public int NumberOfCows
         {
             get
