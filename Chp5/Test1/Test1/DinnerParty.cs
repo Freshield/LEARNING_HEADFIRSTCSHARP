@@ -9,10 +9,22 @@ namespace Test1
     {
         public decimal CostOfBeveragesPerPerson;
         public decimal CostOfDecorations = 0;
-        public int NumberOfPeople;
+        private int numberOfPeople;
         public bool HealthyOption;
 
         const int CostOfFoodPerPerson = 25;
+
+        public int NumberOfPeople
+        {
+            get
+            {
+                return numberOfPeople;
+            }
+            set
+            {
+                numberOfPeople = value;
+            }
+        }
 
         public void SetHealthyOption(bool choice)
         {

@@ -17,7 +17,6 @@ namespace Test1
             InitializeComponent();
             dinnerParty = new DinnerParty() { NumberOfPeople = 5 };
             dinnerParty.SetHealthyOption(false);
-            DisplayDinnerPartyCost();
 
         }
 
