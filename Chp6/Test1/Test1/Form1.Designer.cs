@@ -41,9 +41,9 @@
             this.numberBirthday = new System.Windows.Forms.NumericUpDown();
             this.fancyBirthday = new System.Windows.Forms.CheckBox();
             this.label4 = new System.Windows.Forms.Label();
-            this.textBox1 = new System.Windows.Forms.TextBox();
+            this.cakeWriting = new System.Windows.Forms.TextBox();
             this.label5 = new System.Windows.Forms.Label();
-            this.label6 = new System.Windows.Forms.Label();
+            this.birthdayCost = new System.Windows.Forms.Label();
             this.tabControl1.SuspendLayout();
             this.tabPage1.SuspendLayout();
             this.tabPage2.SuspendLayout();
@@ -79,9 +79,9 @@
             // 
             // tabPage2
             // 
-            this.tabPage2.Controls.Add(this.label6);
+            this.tabPage2.Controls.Add(this.birthdayCost);
             this.tabPage2.Controls.Add(this.label5);
-            this.tabPage2.Controls.Add(this.textBox1);
+            this.tabPage2.Controls.Add(this.cakeWriting);
             this.tabPage2.Controls.Add(this.label4);
             this.tabPage2.Controls.Add(this.fancyBirthday);
             this.tabPage2.Controls.Add(this.numberBirthday);
@@ -182,6 +182,7 @@
             this.numberBirthday.Name = "numberBirthday";
             this.numberBirthday.Size = new System.Drawing.Size(237, 38);
             this.numberBirthday.TabIndex = 1;
+            this.numberBirthday.ValueChanged += new System.EventHandler(this.numberBirthday_ValueChanged);
             // 
             // fancyBirthday
             // 
@@ -194,6 +195,7 @@
             this.fancyBirthday.TabIndex = 2;
             this.fancyBirthday.Text = "Fancy Decorations";
             this.fancyBirthday.UseVisualStyleBackColor = true;
+            this.fancyBirthday.CheckedChanged += new System.EventHandler(this.fancyBirthday_CheckedChanged);
             // 
             // label4
             // 
@@ -204,13 +206,14 @@
             this.label4.TabIndex = 3;
             this.label4.Text = "Cake Writing";
             // 
-            // textBox1
+            // cakeWriting
             // 
-            this.textBox1.Location = new System.Drawing.Point(154, 353);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(237, 38);
-            this.textBox1.TabIndex = 4;
-            this.textBox1.Text = "Happy Birthday";
+            this.cakeWriting.Location = new System.Drawing.Point(154, 353);
+            this.cakeWriting.Name = "cakeWriting";
+            this.cakeWriting.Size = new System.Drawing.Size(237, 38);
+            this.cakeWriting.TabIndex = 4;
+            this.cakeWriting.Text = "Happy Birthday";
+            this.cakeWriting.TextChanged += new System.EventHandler(this.cakeWriting_TextChanged);
             // 
             // label5
             // 
@@ -221,14 +224,14 @@
             this.label5.TabIndex = 5;
             this.label5.Text = "Cost";
             // 
-            // label6
+            // birthdayCost
             // 
-            this.label6.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.label6.Location = new System.Drawing.Point(243, 428);
-            this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(148, 32);
-            this.label6.TabIndex = 6;
-            this.label6.Text = "$";
+            this.birthdayCost.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
+            this.birthdayCost.Location = new System.Drawing.Point(243, 428);
+            this.birthdayCost.Name = "birthdayCost";
+            this.birthdayCost.Size = new System.Drawing.Size(148, 32);
+            this.birthdayCost.TabIndex = 6;
+            this.birthdayCost.Text = "$";
             // 
             // Form1
             // 
@@ -260,9 +263,9 @@
         private System.Windows.Forms.CheckBox checkBox1;
         private System.Windows.Forms.NumericUpDown numericUpDown1;
         private System.Windows.Forms.Label label1;
-        private System.Windows.Forms.Label label6;
+        private System.Windows.Forms.Label birthdayCost;
         private System.Windows.Forms.Label label5;
-        private System.Windows.Forms.TextBox textBox1;
+        private System.Windows.Forms.TextBox cakeWriting;
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.CheckBox fancyBirthday;
         private System.Windows.Forms.NumericUpDown numberBirthday;
