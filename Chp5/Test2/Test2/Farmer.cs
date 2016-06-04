@@ -8,10 +8,19 @@ namespace Test2
     class Farmer
     {
         public int BagsOfFeed { get;private set; }
-        public int FeedMultiplier { get { return feedMultiplier; } }
+        public int FeedMultiplier { get; set; }
 
         private int numberOfCows;
         private int feedMultiplier;
+
+        public Farmer(int numberOfCows, int feedMultiplier)
+        {
+            this.feedMultiplier = feedMultiplier;
+            NumberOfCows = numberOfCows;
+        }
+
+
+
         public int NumberOfCows
         {
             get
