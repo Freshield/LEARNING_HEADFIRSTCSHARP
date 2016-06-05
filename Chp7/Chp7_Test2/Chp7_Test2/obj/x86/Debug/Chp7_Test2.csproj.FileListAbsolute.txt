@@ -1,0 +1,7 @@
+D:\MEGA\LEARN_BYSELF\C#\LEARNING_HEADFIRSTCSHARP\Chp7\Chp7_Test2\Chp7_Test2\bin\Debug\Chp7_Test2.exe
+D:\MEGA\LEARN_BYSELF\C#\LEARNING_HEADFIRSTCSHARP\Chp7\Chp7_Test2\Chp7_Test2\bin\Debug\Chp7_Test2.pdb
+D:\MEGA\LEARN_BYSELF\C#\LEARNING_HEADFIRSTCSHARP\Chp7\Chp7_Test2\Chp7_Test2\obj\x86\Debug\Chp7_Test2.Form1.resources
+D:\MEGA\LEARN_BYSELF\C#\LEARNING_HEADFIRSTCSHARP\Chp7\Chp7_Test2\Chp7_Test2\obj\x86\Debug\Chp7_Test2.Properties.Resources.resources
+D:\MEGA\LEARN_BYSELF\C#\LEARNING_HEADFIRSTCSHARP\Chp7\Chp7_Test2\Chp7_Test2\obj\x86\Debug\Chp7_Test2.csproj.GenerateResource.Cache
+D:\MEGA\LEARN_BYSELF\C#\LEARNING_HEADFIRSTCSHARP\Chp7\Chp7_Test2\Chp7_Test2\obj\x86\Debug\Chp7_Test2.exe
+D:\MEGA\LEARN_BYSELF\C#\LEARNING_HEADFIRSTCSHARP\Chp7\Chp7_Test2\Chp7_Test2\obj\x86\Debug\Chp7_Test2.pdb
