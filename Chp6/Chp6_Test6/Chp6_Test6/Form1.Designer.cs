@@ -29,10 +29,10 @@
         private void InitializeComponent()
         {
             this.workerBeeJob = new System.Windows.Forms.ComboBox();
-            this.button1 = new System.Windows.Forms.Button();
+            this.assignJob = new System.Windows.Forms.Button();
             this.shift = new System.Windows.Forms.NumericUpDown();
             this.button2 = new System.Windows.Forms.Button();
-            this.textBox1 = new System.Windows.Forms.TextBox();
+            this.report = new System.Windows.Forms.TextBox();
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.shift)).BeginInit();
@@ -54,14 +54,15 @@
             this.workerBeeJob.Size = new System.Drawing.Size(340, 39);
             this.workerBeeJob.TabIndex = 0;
             // 
-            // button1
+            // assignJob
             // 
-            this.button1.Location = new System.Drawing.Point(66, 193);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(340, 46);
-            this.button1.TabIndex = 1;
-            this.button1.Text = "Assignthis job to a bee";
-            this.button1.UseVisualStyleBackColor = true;
+            this.assignJob.Location = new System.Drawing.Point(66, 193);
+            this.assignJob.Name = "assignJob";
+            this.assignJob.Size = new System.Drawing.Size(340, 46);
+            this.assignJob.TabIndex = 1;
+            this.assignJob.Text = "Assignthis job to a bee";
+            this.assignJob.UseVisualStyleBackColor = true;
+            this.assignJob.Click += new System.EventHandler(this.assignJob_Click);
             // 
             // shift
             // 
@@ -69,6 +70,7 @@
             this.shift.Name = "shift";
             this.shift.Size = new System.Drawing.Size(170, 38);
             this.shift.TabIndex = 2;
+            this.shift.ValueChanged += new System.EventHandler(this.shift_ValueChanged);
             // 
             // button2
             // 
@@ -78,14 +80,15 @@
             this.button2.TabIndex = 3;
             this.button2.Text = "Work the next shift";
             this.button2.UseVisualStyleBackColor = true;
+            this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
-            // textBox1
+            // report
             // 
-            this.textBox1.Location = new System.Drawing.Point(66, 260);
-            this.textBox1.Multiline = true;
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(808, 432);
-            this.textBox1.TabIndex = 4;
+            this.report.Location = new System.Drawing.Point(66, 260);
+            this.report.Multiline = true;
+            this.report.Name = "report";
+            this.report.Size = new System.Drawing.Size(808, 432);
+            this.report.TabIndex = 4;
             // 
             // label1
             // 
@@ -112,10 +115,10 @@
             this.ClientSize = new System.Drawing.Size(917, 704);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
-            this.Controls.Add(this.textBox1);
+            this.Controls.Add(this.report);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.shift);
-            this.Controls.Add(this.button1);
+            this.Controls.Add(this.assignJob);
             this.Controls.Add(this.workerBeeJob);
             this.Name = "Form1";
             this.Text = "Form1";
@@ -128,10 +131,10 @@
         #endregion
 
         private System.Windows.Forms.ComboBox workerBeeJob;
-        private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Button assignJob;
         private System.Windows.Forms.NumericUpDown shift;
         private System.Windows.Forms.Button button2;
-        private System.Windows.Forms.TextBox textBox1;
+        private System.Windows.Forms.TextBox report;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label2;
     }

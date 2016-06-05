@@ -24,5 +24,34 @@ namespace Chp6_Test6
             queen = new Queen(workers);
         }
 
+        private void assignJob_Click(object sender, EventArgs e)
+        {
+            if (queen.AssignWork(workerBeeJob.Text, (int)shift.Value) == false)
+            {
+                MessageBox.Show("No workers are available to do the job '" +
+                    workerBeeJob.Text + "'", "The queen bee says...");
+            }
+            else
+            {
+                MessageBox.Show("The job '" + workerBeeJob.Text + "' will be done in "
+                    + shift.Value + " shifts", "The queen bee says...");
+            }
+        }
+
+        private void shift_ValueChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            report.Text = queen.WorkTheNextShift();
+        }
+
+
+
+
+
+
     }
 }
