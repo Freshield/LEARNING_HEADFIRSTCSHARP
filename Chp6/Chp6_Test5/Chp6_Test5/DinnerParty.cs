@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace Test1
+namespace Chp6_Test5
 {
     class DinnerParty : Party
     {
@@ -15,7 +15,7 @@ namespace Test1
         {
             SetHealthyOption(healthyOption);
             CalculateCostOfDecorations(fancyDecorations);
-
+            
         }
 
 

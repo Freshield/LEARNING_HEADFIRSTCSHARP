@@ -4,14 +4,14 @@ using System.Linq;
 using System.Text;
 using System.Windows.Forms;
 
-namespace Test1
+namespace Chp6_Test5
 {
     class BirthdayParty : Party
     {
         public int CakeSize;
 
 
-        string cakeWriting = "";
+        string cakeWriting;
         public string CakeWriting
         {
             get
@@ -69,7 +69,7 @@ namespace Test1
         }
 
 
-        public override decimal CalculateCost()
+        public override decimal CaluculateCost()
         {
             decimal CakeCost;
             if (CakeSize == 8)
@@ -99,4 +99,5 @@ namespace Test1
             }
         }
     }
+
 }

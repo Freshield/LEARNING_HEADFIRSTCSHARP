@@ -1,4 +1,4 @@
-﻿namespace Test1
+﻿namespace Chp6_Test5
 {
     partial class Form1
     {
@@ -32,7 +32,7 @@
             this.tabPage1 = new System.Windows.Forms.TabPage();
             this.label3 = new System.Windows.Forms.Label();
             this.costLabel = new System.Windows.Forms.Label();
-            this.healthyOption = new System.Windows.Forms.CheckBox();
+            this.checkBox2 = new System.Windows.Forms.CheckBox();
             this.checkBox1 = new System.Windows.Forms.CheckBox();
             this.numericUpDown1 = new System.Windows.Forms.NumericUpDown();
             this.label1 = new System.Windows.Forms.Label();
@@ -55,17 +55,17 @@
             // 
             this.tabControl1.Controls.Add(this.tabPage1);
             this.tabControl1.Controls.Add(this.tabPage2);
-            this.tabControl1.Location = new System.Drawing.Point(12, 12);
+            this.tabControl1.Location = new System.Drawing.Point(-4, -1);
             this.tabControl1.Name = "tabControl1";
             this.tabControl1.SelectedIndex = 0;
             this.tabControl1.Size = new System.Drawing.Size(819, 682);
-            this.tabControl1.TabIndex = 0;
+            this.tabControl1.TabIndex = 1;
             // 
             // tabPage1
             // 
             this.tabPage1.Controls.Add(this.label3);
             this.tabPage1.Controls.Add(this.costLabel);
-            this.tabPage1.Controls.Add(this.healthyOption);
+            this.tabPage1.Controls.Add(this.checkBox2);
             this.tabPage1.Controls.Add(this.checkBox1);
             this.tabPage1.Controls.Add(this.numericUpDown1);
             this.tabPage1.Controls.Add(this.label1);
@@ -94,16 +94,15 @@
             this.costLabel.Size = new System.Drawing.Size(162, 33);
             this.costLabel.TabIndex = 10;
             // 
-            // healthyOption
+            // checkBox2
             // 
-            this.healthyOption.AutoSize = true;
-            this.healthyOption.Location = new System.Drawing.Point(238, 324);
-            this.healthyOption.Name = "healthyOption";
-            this.healthyOption.Size = new System.Drawing.Size(242, 36);
-            this.healthyOption.TabIndex = 9;
-            this.healthyOption.Text = "Healthy Option";
-            this.healthyOption.UseVisualStyleBackColor = true;
-            this.healthyOption.CheckedChanged += new System.EventHandler(this.checkBox2_CheckedChanged);
+            this.checkBox2.AutoSize = true;
+            this.checkBox2.Location = new System.Drawing.Point(238, 324);
+            this.checkBox2.Name = "checkBox2";
+            this.checkBox2.Size = new System.Drawing.Size(242, 36);
+            this.checkBox2.TabIndex = 9;
+            this.checkBox2.Text = "Healthy Option";
+            this.checkBox2.UseVisualStyleBackColor = true;
             // 
             // checkBox1
             // 
@@ -116,7 +115,6 @@
             this.checkBox1.TabIndex = 8;
             this.checkBox1.Text = "Fancy Decorations";
             this.checkBox1.UseVisualStyleBackColor = true;
-            this.checkBox1.CheckedChanged += new System.EventHandler(this.checkBox1_CheckedChanged);
             // 
             // numericUpDown1
             // 
@@ -139,7 +137,6 @@
             0,
             0,
             0});
-            this.numericUpDown1.ValueChanged += new System.EventHandler(this.numericUpDown1_ValueChanged);
             // 
             // label1
             // 
@@ -192,7 +189,6 @@
             this.cakeWriting.Size = new System.Drawing.Size(237, 38);
             this.cakeWriting.TabIndex = 4;
             this.cakeWriting.Text = "Happy Birthday";
-            this.cakeWriting.TextChanged += new System.EventHandler(this.cakeWriting_TextChanged);
             // 
             // label4
             // 
@@ -214,7 +210,6 @@
             this.fancyBirthday.TabIndex = 2;
             this.fancyBirthday.Text = "Fancy Decorations";
             this.fancyBirthday.UseVisualStyleBackColor = true;
-            this.fancyBirthday.CheckedChanged += new System.EventHandler(this.fancyBirthday_CheckedChanged);
             // 
             // numberBirthday
             // 
@@ -222,7 +217,6 @@
             this.numberBirthday.Name = "numberBirthday";
             this.numberBirthday.Size = new System.Drawing.Size(237, 38);
             this.numberBirthday.TabIndex = 1;
-            this.numberBirthday.ValueChanged += new System.EventHandler(this.numberBirthday_ValueChanged);
             // 
             // label2
             // 
@@ -237,7 +231,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(16F, 31F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(843, 706);
+            this.ClientSize = new System.Drawing.Size(811, 681);
             this.Controls.Add(this.tabControl1);
             this.Name = "Form1";
             this.Text = "Form1";
@@ -256,13 +250,13 @@
 
         private System.Windows.Forms.TabControl tabControl1;
         private System.Windows.Forms.TabPage tabPage1;
-        private System.Windows.Forms.TabPage tabPage2;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Label costLabel;
-        private System.Windows.Forms.CheckBox healthyOption;
+        private System.Windows.Forms.CheckBox checkBox2;
         private System.Windows.Forms.CheckBox checkBox1;
         private System.Windows.Forms.NumericUpDown numericUpDown1;
         private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.TabPage tabPage2;
         private System.Windows.Forms.Label birthdayCost;
         private System.Windows.Forms.Label label5;
         private System.Windows.Forms.TextBox cakeWriting;

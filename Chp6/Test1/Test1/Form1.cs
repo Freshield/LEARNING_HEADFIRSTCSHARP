@@ -16,7 +16,7 @@ namespace Test1
         public Form1()
         {
             InitializeComponent();
-            dinnerParty = new DinnerParty() { NumberOfPeople = 5 };
+            dinnerParty = new DinnerParty( (int)numberBirthday.Value, healthyOption.Checked , fancyBirthday.Checked );
             dinnerParty.SetHealthyOption(false);
             DisplayDinnerPartyCost();
 
@@ -27,7 +27,7 @@ namespace Test1
 
         private void DisplayDinnerPartyCost()
         {
-            decimal Cost = dinnerParty.CalculateCost(checkBox2.Checked);
+            decimal Cost = dinnerParty.CalculateCost(healthyOption.Checked);
             costLabel.Text = Cost.ToString("c");
         }
 
@@ -45,7 +45,7 @@ namespace Test1
 
         private void checkBox2_CheckedChanged(object sender, EventArgs e)
         {
-            dinnerParty.SetHealthyOption(checkBox2.Checked);
+            dinnerParty.SetHealthyOption(healthyOption.Checked);
             DisplayDinnerPartyCost();
         }
 
@@ -70,7 +70,7 @@ namespace Test1
         private void DisplayBirthdayPartyCost()
         {
             cakeWriting.Text = birthdayParty.CakeWriting;
-            decimal cost = birthdayParty.CaluculateCost();
+            decimal cost = birthdayParty.CalculateCost();
             birthdayCost.Text = cost.ToString("c");
         }
 

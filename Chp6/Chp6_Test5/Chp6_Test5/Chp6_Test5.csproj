@@ -5,11 +5,11 @@
     <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
     <ProductVersion>8.0.30703</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{2C7AFC18-218F-485C-98E8-AEBC2FBD171F}</ProjectGuid>
+    <ProjectGuid>{4FDF278C-6634-4C51-9C08-EB425D823CD1}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Test1</RootNamespace>
-    <AssemblyName>Test1</AssemblyName>
+    <RootNamespace>Chp6_Test5</RootNamespace>
+    <AssemblyName>Chp6_Test5</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <TargetFrameworkProfile>Client</TargetFrameworkProfile>
     <FileAlignment>512</FileAlignment>
