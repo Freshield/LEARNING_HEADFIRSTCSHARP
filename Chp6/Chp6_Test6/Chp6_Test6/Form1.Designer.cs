@@ -46,9 +46,9 @@
             "Nectar collector",
             "Egg care",
             "Hive maintenance",
-            "BABY BEE TUTORING",
-            "hONEY MANUFACTURING",
-            "sTING PATROL"});
+            "Baby Bee Tutoring",
+            "Honey manufacting",
+            "Sting patrol"});
             this.workerBeeJob.Location = new System.Drawing.Point(66, 110);
             this.workerBeeJob.Name = "workerBeeJob";
             this.workerBeeJob.Size = new System.Drawing.Size(340, 39);
