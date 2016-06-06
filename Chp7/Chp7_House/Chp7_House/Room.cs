@@ -15,7 +15,7 @@ namespace Chp7_House
             this.decoration = decoration;
         }
 
-        public override string Decoration
+        public override string  Description
         {
             get
             {

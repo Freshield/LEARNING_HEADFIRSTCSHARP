@@ -1,0 +1,7 @@
+D:\MEGA\LEARN_BYSELF\C#\LEARNING_HEADFIRSTCSHARP\Chp7\Chp7_House\Chp7_House\obj\x86\Debug\Chp7_House.Form1.resources
+D:\MEGA\LEARN_BYSELF\C#\LEARNING_HEADFIRSTCSHARP\Chp7\Chp7_House\Chp7_House\obj\x86\Debug\Chp7_House.Properties.Resources.resources
+D:\MEGA\LEARN_BYSELF\C#\LEARNING_HEADFIRSTCSHARP\Chp7\Chp7_House\Chp7_House\obj\x86\Debug\Chp7_House.csproj.GenerateResource.Cache
+D:\MEGA\LEARN_BYSELF\C#\LEARNING_HEADFIRSTCSHARP\Chp7\Chp7_House\Chp7_House\bin\Debug\Chp7_House.exe
+D:\MEGA\LEARN_BYSELF\C#\LEARNING_HEADFIRSTCSHARP\Chp7\Chp7_House\Chp7_House\bin\Debug\Chp7_House.pdb
+D:\MEGA\LEARN_BYSELF\C#\LEARNING_HEADFIRSTCSHARP\Chp7\Chp7_House\Chp7_House\obj\x86\Debug\Chp7_House.exe
+D:\MEGA\LEARN_BYSELF\C#\LEARNING_HEADFIRSTCSHARP\Chp7\Chp7_House\Chp7_House\obj\x86\Debug\Chp7_House.pdb

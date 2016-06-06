@@ -50,6 +50,7 @@
             this.goHere.TabIndex = 1;
             this.goHere.Text = "Go here;";
             this.goHere.UseVisualStyleBackColor = true;
+            this.goHere.Click += new System.EventHandler(this.goHere_Click);
             // 
             // exits
             // 
@@ -67,6 +68,7 @@
             this.goThrough.TabIndex = 3;
             this.goThrough.Text = "Go through the door";
             this.goThrough.UseVisualStyleBackColor = true;
+            this.goThrough.Click += new System.EventHandler(this.goThrough_Click);
             // 
             // Form1
             // 
