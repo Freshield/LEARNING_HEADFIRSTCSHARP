@@ -7,7 +7,7 @@ namespace Chp7_House
 {
     interface IHasExteriorDoor
     {
-        public string DoorDescription { get; private set; }
-        public Location DoorLocation { get; set; }
+        string DoorDescription { get;}
+        Location DoorLocation { get; set; }
     }
 }

@@ -7,6 +7,20 @@ namespace Chp7_House
 {
     class Room : Location
     {
-        public string Decoration { get; private set; }
+        private string decoration;
+
+        public Room(string name, string decoration)
+            : base(name)
+        {
+            this.decoration = decoration;
+        }
+
+        public override string Decoration
+        {
+            get
+            {
+                return base.Description + " You see " + decoration + ".";
+            }
+        }
     }
 }

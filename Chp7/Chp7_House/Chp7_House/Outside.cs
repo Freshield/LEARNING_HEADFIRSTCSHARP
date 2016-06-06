@@ -7,6 +7,26 @@ namespace Chp7_House
 {
     class Outside : Location
     {
-        public bool Hot { get; set; }
+        private bool hot;
+        public bool Hot { get { return hot; } }
+
+        public Outside(string name, bool hot)
+            :base(name)
+        {
+            this.hot = hot;
+        }
+
+        public override string Description
+        {
+            get
+            {
+                string NewDescription = base.Description;
+                if (hot)
+                {
+                    NewDescription += " It's very hot.";
+                }
+                return NewDescription;
+            }
+        }
     }
 }
