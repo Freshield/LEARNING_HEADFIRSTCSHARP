@@ -8,7 +8,7 @@ namespace Chp7_Test2
 {
     class FunnyFunny : IClown
     {
-        private string funnyThingIHave;
+        protected string funnyThingIHave;
         public FunnyFunny(string funnyThingIHave)
         {
             this.funnyThingIHave = funnyThingIHave;

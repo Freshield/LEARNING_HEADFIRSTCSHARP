@@ -21,7 +21,7 @@ namespace Chp7_Test2
             ScaryScary fingersTheClown = new ScaryScary("big shoes", 14);
             FunnyFunny someFunnyClown = fingersTheClown;
             IScaryClown someOtherScaryclown = someFunnyClown as ScaryScary;
-            someOtherScaryclown.Honk();
+            someOtherScaryclown.ScareLittleChildren();
         }
     }
 }

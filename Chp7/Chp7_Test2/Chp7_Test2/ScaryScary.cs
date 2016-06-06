@@ -20,13 +20,13 @@ namespace Chp7_Test2
         {
             get
             {
-                return "I have " + numberOfScaryThings + " spiders";
+                return "I have " + numberOfScaryThings + " spiders, you can not have my " + base.funnyThingIHave;
             }
         }
 
         public void ScareLittleChildren()
         {
-            MessageBox.Show("Boo! Gotcha!");
+            MessageBox.Show("Boo! Gotcha!" + ScaryThingIHave);
         }
     }
 }

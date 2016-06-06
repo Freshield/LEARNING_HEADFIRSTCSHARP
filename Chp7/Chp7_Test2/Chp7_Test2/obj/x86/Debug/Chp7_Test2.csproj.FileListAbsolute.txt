@@ -5,3 +5,4 @@ D:\MEGA\LEARN_BYSELF\C#\LEARNING_HEADFIRSTCSHARP\Chp7\Chp7_Test2\Chp7_Test2\obj\
 D:\MEGA\LEARN_BYSELF\C#\LEARNING_HEADFIRSTCSHARP\Chp7\Chp7_Test2\Chp7_Test2\obj\x86\Debug\Chp7_Test2.csproj.GenerateResource.Cache
 D:\MEGA\LEARN_BYSELF\C#\LEARNING_HEADFIRSTCSHARP\Chp7\Chp7_Test2\Chp7_Test2\obj\x86\Debug\Chp7_Test2.exe
 D:\MEGA\LEARN_BYSELF\C#\LEARNING_HEADFIRSTCSHARP\Chp7\Chp7_Test2\Chp7_Test2\obj\x86\Debug\Chp7_Test2.pdb
+D:\MEGA\LEARN_BYSELF\C#\LEARNING_HEADFIRSTCSHARP\Chp7\Chp7_Test2\Chp7_Test2\obj\x86\Debug\Chp7_Test2.csprojResolveAssemblyReference.cache
