@@ -18,10 +18,12 @@ namespace Chp7_Test2
 
         private void button1_Click(object sender, EventArgs e)
         {
-            ScaryScary fingersTheClown = new ScaryScary("big shoes", 14);
-            FunnyFunny someFunnyClown = fingersTheClown;
-            IScaryClown someOtherScaryclown = someFunnyClown as ScaryScary;
-            someOtherScaryclown.ScareLittleChildren();
+            //ScaryScary fingersTheClown = new ScaryScary("big shoes", 14);
+            //FunnyFunny someFunnyClown = fingersTheClown;
+            //IScaryClown someOtherScaryclown = someFunnyClown as ScaryScary;
+            //someOtherScaryclown.ScareLittleChildren();
+            Test test = new Test(12);
+            test.show();
         }
     }
 }
