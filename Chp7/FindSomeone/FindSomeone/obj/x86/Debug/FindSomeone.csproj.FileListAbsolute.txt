@@ -1,0 +1,7 @@
+D:\MEGA\LEARN_BYSELF\C#\LEARNING_HEADFIRSTCSHARP\Chp7\FindSomeone\FindSomeone\bin\Debug\FindSomeone.exe
+D:\MEGA\LEARN_BYSELF\C#\LEARNING_HEADFIRSTCSHARP\Chp7\FindSomeone\FindSomeone\bin\Debug\FindSomeone.pdb
+D:\MEGA\LEARN_BYSELF\C#\LEARNING_HEADFIRSTCSHARP\Chp7\FindSomeone\FindSomeone\obj\x86\Debug\FindSomeone.Form1.resources
+D:\MEGA\LEARN_BYSELF\C#\LEARNING_HEADFIRSTCSHARP\Chp7\FindSomeone\FindSomeone\obj\x86\Debug\FindSomeone.Properties.Resources.resources
+D:\MEGA\LEARN_BYSELF\C#\LEARNING_HEADFIRSTCSHARP\Chp7\FindSomeone\FindSomeone\obj\x86\Debug\FindSomeone.csproj.GenerateResource.Cache
+D:\MEGA\LEARN_BYSELF\C#\LEARNING_HEADFIRSTCSHARP\Chp7\FindSomeone\FindSomeone\obj\x86\Debug\FindSomeone.exe
+D:\MEGA\LEARN_BYSELF\C#\LEARNING_HEADFIRSTCSHARP\Chp7\FindSomeone\FindSomeone\obj\x86\Debug\FindSomeone.pdb
