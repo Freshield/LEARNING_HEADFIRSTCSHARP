@@ -12,6 +12,7 @@ namespace Chp8_Test8
     public partial class Form1 : Form
     {
         Card cardToCheck;
+        
 
         public Form1()
         {
