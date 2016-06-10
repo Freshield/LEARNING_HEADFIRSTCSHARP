@@ -1,0 +1,7 @@
+D:\MEGA\LEARN_BYSELF\C#\LEARNING_HEADFIRSTCSHARP\Chp8\TestIneritance\TestIneritance\bin\Debug\TestIneritance.exe
+D:\MEGA\LEARN_BYSELF\C#\LEARNING_HEADFIRSTCSHARP\Chp8\TestIneritance\TestIneritance\bin\Debug\TestIneritance.pdb
+D:\MEGA\LEARN_BYSELF\C#\LEARNING_HEADFIRSTCSHARP\Chp8\TestIneritance\TestIneritance\obj\x86\Debug\TestIneritance.Form1.resources
+D:\MEGA\LEARN_BYSELF\C#\LEARNING_HEADFIRSTCSHARP\Chp8\TestIneritance\TestIneritance\obj\x86\Debug\TestIneritance.Properties.Resources.resources
+D:\MEGA\LEARN_BYSELF\C#\LEARNING_HEADFIRSTCSHARP\Chp8\TestIneritance\TestIneritance\obj\x86\Debug\TestIneritance.csproj.GenerateResource.Cache
+D:\MEGA\LEARN_BYSELF\C#\LEARNING_HEADFIRSTCSHARP\Chp8\TestIneritance\TestIneritance\obj\x86\Debug\TestIneritance.exe
+D:\MEGA\LEARN_BYSELF\C#\LEARNING_HEADFIRSTCSHARP\Chp8\TestIneritance\TestIneritance\obj\x86\Debug\TestIneritance.pdb
