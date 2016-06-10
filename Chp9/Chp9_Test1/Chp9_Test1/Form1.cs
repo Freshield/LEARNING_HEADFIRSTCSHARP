@@ -15,7 +15,7 @@ namespace Chp9_Test1
         public Form1()
         {
             InitializeComponent();
-            openFileDialog1.InitialDirectory = @"D:\MEGA\LEARN_BYSELF\C#\LEARNING_HEADFIRSTCSHARP\Chp9\secret_plan.txt";
+            openFileDialog1.InitialDirectory = @"D:\MEGA\LEARN_BYSELF\C#\LEARNING_HEADFIRSTCSHARP\Chp9\";
             openFileDialog1.Filter = "Text Files (*.txt)|*.txt|Comma-Delimited Files (*.csv)|*.csv|All files (*.*)|*.*";
             openFileDialog1.FileName = "default_file.txt";
             openFileDialog1.CheckFileExists = true;
@@ -61,6 +61,18 @@ namespace Chp9_Test1
             if (result == DialogResult.OK)
             {
                 MessageBox.Show(openFileDialog1.FileName);
+            }
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            saveFileDialog1 = new SaveFileDialog();
+            saveFileDialog1.InitialDirectory = @"D:\MEGA\LEARN_BYSELF\C#\LEARNING_HEADFIRSTCSHARP\Chp9\";
+            saveFileDialog1.Filter = "Text Files (*.txt)|*.txt|Comma-Delimited Files (*.csv)|*.csv|All Files (*.*)|*.*";
+            DialogResult result = saveFileDialog1.ShowDialog();
+            if (result == DialogResult.OK)
+            {
+                MessageBox.Show(saveFileDialog1.FileName);
             }
         }
     }
