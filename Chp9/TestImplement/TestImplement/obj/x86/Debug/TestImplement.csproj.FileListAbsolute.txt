@@ -1,0 +1,7 @@
+D:\MEGA\LEARN_BYSELF\C#\LEARNING_HEADFIRSTCSHARP\Chp9\TestImplement\TestImplement\bin\Debug\TestImplement.exe
+D:\MEGA\LEARN_BYSELF\C#\LEARNING_HEADFIRSTCSHARP\Chp9\TestImplement\TestImplement\bin\Debug\TestImplement.pdb
+D:\MEGA\LEARN_BYSELF\C#\LEARNING_HEADFIRSTCSHARP\Chp9\TestImplement\TestImplement\obj\x86\Debug\TestImplement.Form1.resources
+D:\MEGA\LEARN_BYSELF\C#\LEARNING_HEADFIRSTCSHARP\Chp9\TestImplement\TestImplement\obj\x86\Debug\TestImplement.Properties.Resources.resources
+D:\MEGA\LEARN_BYSELF\C#\LEARNING_HEADFIRSTCSHARP\Chp9\TestImplement\TestImplement\obj\x86\Debug\TestImplement.csproj.GenerateResource.Cache
+D:\MEGA\LEARN_BYSELF\C#\LEARNING_HEADFIRSTCSHARP\Chp9\TestImplement\TestImplement\obj\x86\Debug\TestImplement.exe
+D:\MEGA\LEARN_BYSELF\C#\LEARNING_HEADFIRSTCSHARP\Chp9\TestImplement\TestImplement\obj\x86\Debug\TestImplement.pdb
