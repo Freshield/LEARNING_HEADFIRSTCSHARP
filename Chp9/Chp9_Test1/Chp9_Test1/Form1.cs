@@ -15,6 +15,12 @@ namespace Chp9_Test1
         public Form1()
         {
             InitializeComponent();
+            openFileDialog1.InitialDirectory = @"D:\MEGA\LEARN_BYSELF\C#\LEARNING_HEADFIRSTCSHARP\Chp9\secret_plan.txt";
+            openFileDialog1.Filter = "Text Files (*.txt)|*.txt|Comma-Delimited Files (*.csv)|*.csv|All files (*.*)|*.*";
+            openFileDialog1.FileName = "default_file.txt";
+            openFileDialog1.CheckFileExists = true;
+            openFileDialog1.CheckPathExists = false;
+            
         }
 
         private void button1_Click(object sender, EventArgs e)
@@ -47,6 +53,15 @@ namespace Chp9_Test1
                 Console.WriteLine(lineFromThePlan);
             }
             reader.Close();
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            DialogResult result = openFileDialog1.ShowDialog();
+            if (result == DialogResult.OK)
+            {
+                MessageBox.Show(openFileDialog1.FileName);
+            }
         }
     }
 }
