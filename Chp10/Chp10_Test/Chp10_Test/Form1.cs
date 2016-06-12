@@ -25,9 +25,10 @@ namespace Chp10_Test
                 a[5] = 10;
                 Console.WriteLine("1.5");
             }
-            catch (Exception)
+            catch (Exception ex)
             {
                 Console.WriteLine("2");
+                Console.WriteLine(ex.Message + " : " + ex.StackTrace);
             }
             Console.WriteLine("3");
         }
