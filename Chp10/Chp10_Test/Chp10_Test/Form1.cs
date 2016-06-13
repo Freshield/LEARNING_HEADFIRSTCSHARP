@@ -31,6 +31,7 @@ namespace Chp10_Test
                 Console.WriteLine(ex.Message + " : " + ex.StackTrace);
             }
             Console.WriteLine("3");
+            
         }
     }
 }
