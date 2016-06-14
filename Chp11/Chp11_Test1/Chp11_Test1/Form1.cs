@@ -24,8 +24,9 @@ namespace Chp11_Test1
 
         private void playball_Click(object sender, EventArgs e)
         {
+            Bat bat = ball.GetNewBat();
             BallEventArgs ballEventArgs = new BallEventArgs((int)Trajectory.Value, (int)Distance.Value);
-            ball.OnBallInPlay(ballEventArgs);
+            bat.HitTheBall(ballEventArgs);
         }
     }
 }
