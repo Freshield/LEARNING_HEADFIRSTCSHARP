@@ -1,0 +1,7 @@
+D:\MEGA\LEARN_BYSELF\C#\LEARNING_HEADFIRSTCSHARP\Chp15\linq_testing\linq_testing\bin\Release\linq_testing.exe
+D:\MEGA\LEARN_BYSELF\C#\LEARNING_HEADFIRSTCSHARP\Chp15\linq_testing\linq_testing\bin\Release\linq_testing.pdb
+D:\MEGA\LEARN_BYSELF\C#\LEARNING_HEADFIRSTCSHARP\Chp15\linq_testing\linq_testing\obj\x86\Release\linq_testing.Form1.resources
+D:\MEGA\LEARN_BYSELF\C#\LEARNING_HEADFIRSTCSHARP\Chp15\linq_testing\linq_testing\obj\x86\Release\linq_testing.Properties.Resources.resources
+D:\MEGA\LEARN_BYSELF\C#\LEARNING_HEADFIRSTCSHARP\Chp15\linq_testing\linq_testing\obj\x86\Release\linq_testing.csproj.GenerateResource.Cache
+D:\MEGA\LEARN_BYSELF\C#\LEARNING_HEADFIRSTCSHARP\Chp15\linq_testing\linq_testing\obj\x86\Release\linq_testing.exe
+D:\MEGA\LEARN_BYSELF\C#\LEARNING_HEADFIRSTCSHARP\Chp15\linq_testing\linq_testing\obj\x86\Release\linq_testing.pdb

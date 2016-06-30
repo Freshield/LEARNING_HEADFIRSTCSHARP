@@ -5,3 +5,4 @@ D:\MEGA\LEARN_BYSELF\C#\LEARNING_HEADFIRSTCSHARP\Chp15\linq_testing\linq_testing
 D:\MEGA\LEARN_BYSELF\C#\LEARNING_HEADFIRSTCSHARP\Chp15\linq_testing\linq_testing\obj\x86\Debug\linq_testing.csproj.GenerateResource.Cache
 D:\MEGA\LEARN_BYSELF\C#\LEARNING_HEADFIRSTCSHARP\Chp15\linq_testing\linq_testing\obj\x86\Debug\linq_testing.exe
 D:\MEGA\LEARN_BYSELF\C#\LEARNING_HEADFIRSTCSHARP\Chp15\linq_testing\linq_testing\obj\x86\Debug\linq_testing.pdb
+D:\MEGA\LEARN_BYSELF\C#\LEARNING_HEADFIRSTCSHARP\Chp15\linq_testing\linq_testing\obj\x86\Debug\linq_testing.csprojResolveAssemblyReference.cache
