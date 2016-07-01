@@ -1,0 +1,7 @@
+D:\MEGA\LEARN_BYSELF\C#\LEARNING_HEADFIRSTCSHARP\GC\MyExtensions\MyExtensions\bin\Debug\MyExtensions.exe
+D:\MEGA\LEARN_BYSELF\C#\LEARNING_HEADFIRSTCSHARP\GC\MyExtensions\MyExtensions\bin\Debug\MyExtensions.pdb
+D:\MEGA\LEARN_BYSELF\C#\LEARNING_HEADFIRSTCSHARP\GC\MyExtensions\MyExtensions\obj\x86\Debug\MyExtensions.Form1.resources
+D:\MEGA\LEARN_BYSELF\C#\LEARNING_HEADFIRSTCSHARP\GC\MyExtensions\MyExtensions\obj\x86\Debug\MyExtensions.Properties.Resources.resources
+D:\MEGA\LEARN_BYSELF\C#\LEARNING_HEADFIRSTCSHARP\GC\MyExtensions\MyExtensions\obj\x86\Debug\MyExtensions.csproj.GenerateResource.Cache
+D:\MEGA\LEARN_BYSELF\C#\LEARNING_HEADFIRSTCSHARP\GC\MyExtensions\MyExtensions\obj\x86\Debug\MyExtensions.exe
+D:\MEGA\LEARN_BYSELF\C#\LEARNING_HEADFIRSTCSHARP\GC\MyExtensions\MyExtensions\obj\x86\Debug\MyExtensions.pdb
