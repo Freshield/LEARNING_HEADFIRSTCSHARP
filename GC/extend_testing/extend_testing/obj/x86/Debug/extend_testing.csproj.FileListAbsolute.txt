@@ -1,0 +1,7 @@
+D:\MEGA\LEARN_BYSELF\C#\LEARNING_HEADFIRSTCSHARP\GC\extend_testing\extend_testing\bin\Debug\extend_testing.exe
+D:\MEGA\LEARN_BYSELF\C#\LEARNING_HEADFIRSTCSHARP\GC\extend_testing\extend_testing\bin\Debug\extend_testing.pdb
+D:\MEGA\LEARN_BYSELF\C#\LEARNING_HEADFIRSTCSHARP\GC\extend_testing\extend_testing\obj\x86\Debug\extend_testing.Form1.resources
+D:\MEGA\LEARN_BYSELF\C#\LEARNING_HEADFIRSTCSHARP\GC\extend_testing\extend_testing\obj\x86\Debug\extend_testing.Properties.Resources.resources
+D:\MEGA\LEARN_BYSELF\C#\LEARNING_HEADFIRSTCSHARP\GC\extend_testing\extend_testing\obj\x86\Debug\extend_testing.csproj.GenerateResource.Cache
+D:\MEGA\LEARN_BYSELF\C#\LEARNING_HEADFIRSTCSHARP\GC\extend_testing\extend_testing\obj\x86\Debug\extend_testing.exe
+D:\MEGA\LEARN_BYSELF\C#\LEARNING_HEADFIRSTCSHARP\GC\extend_testing\extend_testing\obj\x86\Debug\extend_testing.pdb

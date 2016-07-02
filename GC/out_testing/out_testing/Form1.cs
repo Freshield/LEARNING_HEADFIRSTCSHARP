@@ -22,7 +22,7 @@ namespace out_testing
             double b;
             int c;
             a = ReturnThreeValues(out b, out c);
-            Console.WriteLine("value = "+@"{0}"+"{0}, half = {1}, double = {2}", a, b, c);
+            Console.WriteLine("value = "+"{0}"+"{0}, half = {1}, double = {2}", a, b, c);
         }
 
         Random random = new Random();
