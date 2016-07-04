@@ -1,0 +1,7 @@
+D:\MEGA\LEARN_BYSELF\C#\LEARNING_HEADFIRSTCSHARP\GC\struct_testing\struct_testing\bin\Debug\struct_testing.exe
+D:\MEGA\LEARN_BYSELF\C#\LEARNING_HEADFIRSTCSHARP\GC\struct_testing\struct_testing\bin\Debug\struct_testing.pdb
+D:\MEGA\LEARN_BYSELF\C#\LEARNING_HEADFIRSTCSHARP\GC\struct_testing\struct_testing\obj\x86\Debug\struct_testing.Form1.resources
+D:\MEGA\LEARN_BYSELF\C#\LEARNING_HEADFIRSTCSHARP\GC\struct_testing\struct_testing\obj\x86\Debug\struct_testing.Properties.Resources.resources
+D:\MEGA\LEARN_BYSELF\C#\LEARNING_HEADFIRSTCSHARP\GC\struct_testing\struct_testing\obj\x86\Debug\struct_testing.csproj.GenerateResource.Cache
+D:\MEGA\LEARN_BYSELF\C#\LEARNING_HEADFIRSTCSHARP\GC\struct_testing\struct_testing\obj\x86\Debug\struct_testing.exe
+D:\MEGA\LEARN_BYSELF\C#\LEARNING_HEADFIRSTCSHARP\GC\struct_testing\struct_testing\obj\x86\Debug\struct_testing.pdb
