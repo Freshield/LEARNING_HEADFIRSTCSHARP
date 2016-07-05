@@ -1,0 +1,7 @@
+D:\MEGA\LEARN_BYSELF\C#\LEARNING_HEADFIRSTCSHARP\GC\GC_Testing\GC_Testing\obj\x86\Debug\GC_Testing.Form1.resources
+D:\MEGA\LEARN_BYSELF\C#\LEARNING_HEADFIRSTCSHARP\GC\GC_Testing\GC_Testing\obj\x86\Debug\GC_Testing.Properties.Resources.resources
+D:\MEGA\LEARN_BYSELF\C#\LEARNING_HEADFIRSTCSHARP\GC\GC_Testing\GC_Testing\obj\x86\Debug\GC_Testing.csproj.GenerateResource.Cache
+D:\MEGA\LEARN_BYSELF\C#\LEARNING_HEADFIRSTCSHARP\GC\GC_Testing\GC_Testing\bin\Debug\GC_Testing.exe
+D:\MEGA\LEARN_BYSELF\C#\LEARNING_HEADFIRSTCSHARP\GC\GC_Testing\GC_Testing\bin\Debug\GC_Testing.pdb
+D:\MEGA\LEARN_BYSELF\C#\LEARNING_HEADFIRSTCSHARP\GC\GC_Testing\GC_Testing\obj\x86\Debug\GC_Testing.exe
+D:\MEGA\LEARN_BYSELF\C#\LEARNING_HEADFIRSTCSHARP\GC\GC_Testing\GC_Testing\obj\x86\Debug\GC_Testing.pdb

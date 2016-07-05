@@ -18,7 +18,7 @@ namespace GC_Testing
 
         private void button1_Click(object sender, EventArgs e)
         {
-            using(Clone clone1 = new Clone(1)
+            using(Clone clone1 = new Clone(1))
             {
 
             }
