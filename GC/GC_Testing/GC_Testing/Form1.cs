@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Windows.Forms;
 
-namespace GC1
+namespace GC_Testing
 {
     public partial class Form1 : Form
     {
@@ -18,7 +18,7 @@ namespace GC1
 
         private void button1_Click(object sender, EventArgs e)
         {
-            using (Clone clone1 = new Clone(1))
+            using(Clone clone1 = new Clone(1)
             {
 
             }
@@ -32,7 +32,7 @@ namespace GC1
 
         private void button3_Click(object sender, EventArgs e)
         {
-            
+            GC.Collect();
         }
     }
 }
