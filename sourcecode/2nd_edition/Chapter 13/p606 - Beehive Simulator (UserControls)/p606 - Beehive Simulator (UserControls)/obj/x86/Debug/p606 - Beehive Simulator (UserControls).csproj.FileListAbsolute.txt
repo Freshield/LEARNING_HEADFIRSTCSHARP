@@ -1,0 +1,10 @@
+D:\MEGA\LEARN_BYSELF\C#\LEARNING_HEADFIRSTCSHARP\sourcecode\2nd_edition\Chapter 13\p606 - Beehive Simulator (UserControls)\p606 - Beehive Simulator (UserControls)\bin\Debug\Chapter 12 Beehive Simulator.exe
+D:\MEGA\LEARN_BYSELF\C#\LEARNING_HEADFIRSTCSHARP\sourcecode\2nd_edition\Chapter 13\p606 - Beehive Simulator (UserControls)\p606 - Beehive Simulator (UserControls)\bin\Debug\Chapter 12 Beehive Simulator.pdb
+D:\MEGA\LEARN_BYSELF\C#\LEARNING_HEADFIRSTCSHARP\sourcecode\2nd_edition\Chapter 13\p606 - Beehive Simulator (UserControls)\p606 - Beehive Simulator (UserControls)\obj\x86\Debug\BeehiveSimulator.BeeControl.resources
+D:\MEGA\LEARN_BYSELF\C#\LEARNING_HEADFIRSTCSHARP\sourcecode\2nd_edition\Chapter 13\p606 - Beehive Simulator (UserControls)\p606 - Beehive Simulator (UserControls)\obj\x86\Debug\BeehiveSimulator.FieldForm.resources
+D:\MEGA\LEARN_BYSELF\C#\LEARNING_HEADFIRSTCSHARP\sourcecode\2nd_edition\Chapter 13\p606 - Beehive Simulator (UserControls)\p606 - Beehive Simulator (UserControls)\obj\x86\Debug\BeehiveSimulator.Form1.resources
+D:\MEGA\LEARN_BYSELF\C#\LEARNING_HEADFIRSTCSHARP\sourcecode\2nd_edition\Chapter 13\p606 - Beehive Simulator (UserControls)\p606 - Beehive Simulator (UserControls)\obj\x86\Debug\BeehiveSimulator.HiveForm.resources
+D:\MEGA\LEARN_BYSELF\C#\LEARNING_HEADFIRSTCSHARP\sourcecode\2nd_edition\Chapter 13\p606 - Beehive Simulator (UserControls)\p606 - Beehive Simulator (UserControls)\obj\x86\Debug\BeehiveSimulator.Properties.Resources.resources
+D:\MEGA\LEARN_BYSELF\C#\LEARNING_HEADFIRSTCSHARP\sourcecode\2nd_edition\Chapter 13\p606 - Beehive Simulator (UserControls)\p606 - Beehive Simulator (UserControls)\obj\x86\Debug\p606 - Beehive Simulator (UserControls).csproj.GenerateResource.Cache
+D:\MEGA\LEARN_BYSELF\C#\LEARNING_HEADFIRSTCSHARP\sourcecode\2nd_edition\Chapter 13\p606 - Beehive Simulator (UserControls)\p606 - Beehive Simulator (UserControls)\obj\x86\Debug\Chapter 12 Beehive Simulator.exe
+D:\MEGA\LEARN_BYSELF\C#\LEARNING_HEADFIRSTCSHARP\sourcecode\2nd_edition\Chapter 13\p606 - Beehive Simulator (UserControls)\p606 - Beehive Simulator (UserControls)\obj\x86\Debug\Chapter 12 Beehive Simulator.pdb
