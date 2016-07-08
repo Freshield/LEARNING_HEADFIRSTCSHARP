@@ -38,6 +38,20 @@ namespace linq_testing
             {
                 Console.WriteLine(i);
             }
+
+            Random random = new Random();
+            List<int> list = new List<int>();
+            int length = random.Next(50, 150);
+            for (int i = 0; i < length; i++)
+            {
+                list.Add(random.Next(100));
+            }
+
+            Console.WriteLine("There are {0} numbers", list.Count());
+            Console.WriteLine("The smallest is {0}", list.Min());
+            Console.WriteLine("The biggest is {0}", list.Max());
+            Console.WriteLine("The sum is {0}", list.Sum());
+            Console.WriteLine("The average is {0:F2}", list.Average());
              
         }
     }
